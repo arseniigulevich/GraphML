@@ -1,0 +1,5 @@
+torch
+torch-geometric
+torch-cluster
+networkit
+jupyterlab
